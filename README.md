@@ -19,10 +19,9 @@ Expected Functions -
 13) Transport Service
 
 
-
 *Safety and issuarance
 
-
++ Admin panel
 + in combine with kids-special, wedding, offers
 + to be compatible with meeting and conferences bookings
 
