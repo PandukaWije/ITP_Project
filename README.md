@@ -16,6 +16,12 @@ Expected Functions -
 10) Payment system 
 11) Medical facilities
 12) entertainment activities(sports/indoor/outdoor) events
+13) Transport Service
+
+
+
+*Safety and issuarance
+
 
 + in combine with kids-special, wedding, offers
 + to be compatible with meeting and conferences bookings
