@@ -4,25 +4,25 @@ SLIIT YEAR 2 SEMESTER 2 ITP Project
 TOPIC - Tourism Management system
 
 Expected Functions - 
-1) Book Rooms = lavin
+1) Residence Reservation Management System = lavindya
 2) 
-3) Book a vehicle = danushka aiya
+3) Vehicle Reservation Management System  = danushka aiya
 4) 
-5) Book a tour package = madusha akka
+5) Tour package Reservation System  = madusha akka
 6) 
-7) Dining option +
-8) Tour guide booking = hasithi akka
+7)
+8) Tour guide Reservation System = hasithi akka
 9) 
-10) Add new hotels (As a Seller) = Panduka
+10) Residences Management System (As a Seller) = Panduka
 11) 
-12) Add new tour packages (As a Seller) = keshari  
+12) Tour packages Management System (As a Seller) = keshari  
 13) 
-14) Agent Account Creation 
+14) Agent Account Creation -----------------
 15) 
 16) Contact us / make an inquiry +
 17) Payment system = sathruwan aiya
 18) 
-19) Medical facilities
+19) Medical facilities ---------------------
 20) 
 21) sp activities(sports/indoor/outdoor) events = ayodhy 
 23) Transport Service +
