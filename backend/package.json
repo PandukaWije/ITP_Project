@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Res-reservation",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon server.js"
+  },
+  "author": "Panduka Wijesundara",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^3.7.2",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.15"
+  }
+}
